@@ -23,7 +23,8 @@ permalink: /
 <!-- NEW BANNER IMAGE SECTION -->
 <!-- This section places your background photo directly after the header text. -->
 <!-- We use 'relative_url' to automatically handle the repository name. -->
-<div class="row mb-5">
+<!-- WE REPLACED mb-5 WITH CUSTOM MARGIN -->
+<div class="row" style="margin-bottom: 100px;">
   <div class="col-12">
     <img src="{{ '/fotos/background.png' | relative_url }}" class="img-fluid rounded shadow" alt="IMERSIVE research group collaboration visualization" style="width: 100%;">
   </div>
