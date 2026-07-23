@@ -10,12 +10,11 @@ permalink: /
 <div class="row text-center mt-5 mb-3">
   <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
     <h1>Welcome to The IMERSIVE Group</h1>
-    > **Innovative Modeling for Environmental & Real-time Statistics, Inference, Visualization & Estimation**  
-> *Institute of Mathematics and Statistics — University of São Paulo (IME-USP)*
-
----
   </div>
 </div>
+> **Innovative Modeling for Environmental & Real-time Statistics, Inference, Visualization & Estimation**  
+> *Institute of Mathematics and Statistics — University of São Paulo (IME-USP)*
+---
 
 <!-- NEW BANNER IMAGE SECTION -->
 <!-- This section places your background photo directly after the header text. -->
