@@ -1,7 +1,20 @@
 ---
-layout: home
+layout: default
 title: Home
+permalink: /
+image: /fotos/background.png  # ADD THIS LINE
+# Optional: You can also use "nav: true" if this is the only entry point.
+# nav: true
+# Optional: You can add an image_alt for accessibility
+# image_alt: "IMERSIVE research group collaborating on data visualization and Bayesian analysis."
 ---
+
+<div class="row text-center mt-5">
+  <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+    <h1>Welcome to The IMERSIVE Group</h1>
+    <p class="lead text-muted">Innovative Modeling for Environmental & Real-time Statistics, Inference, Visualization & Estimation</p>
+  </div>
+</div>
 
 # The IMERSIVE Group
 
