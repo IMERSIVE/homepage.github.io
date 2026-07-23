@@ -22,10 +22,10 @@ title: Research
 
 4. **Karling, M. J.**, Genton, M. G., & Meintanis, S. G. (2023). *Goodness-of-fit tests for multivariate skewed distributions based on the characteristic function*. **Statistics and Computing**. [[Journal](https://doi.org/10.1007/s11222-023-10260-0)] [[arXiv](https://arxiv.org/abs/2303.04402)]
 
-5. **Karling, M. J.**, Lopes, S. R. C., & de Souza, R. M. (2023). *Multivariate α-stable distributions: VAR(1) processes, measures of dependence and their estimations*. **Journal of Multivariate Analysis**. [[DOI](https://doi.org/10.1016/j.jmva.2022.105153)]
+5. **Karling, M. J.**, Lopes, S. R. C., & de Souza, R. M. (2023). *Multivariate α-stable distributions: VAR(1) processes, measures of dependence and their estimations*. **Journal of Multivariate Analysis**. [[Journal](https://doi.org/10.1016/j.jmva.2022.105153)]
 
 6. **Karling, M. J.**, Lopes, A. O., & Lopes, S. R. C. (2023). *Explicit bivariate rate functions for large deviations in AR(1) and MA(1) processes with Gaussian innovations*. **Probability, Uncertainty and Quantitative Risk**. [[Journal](https://doi.org/10.3934/puqr.2023008)] [[arXiv](https://arxiv.org/abs/2102.09637)]
 
 7. **Karling, M. J.**, Lopes, A. O., & Lopes, S. R. C. (2022). *Pentadiagonal matrices and an application to the centered MA(1) stationary Gaussian process*. **International Journal of Applied Mathematics and Statistics**. [[Journal](http://www.ceser.in/ceserp/index.php/ijamas/article/view/6831)] [[arXiv](https://arxiv.org/abs/2104.11220)]
 
-8. **Karling, M. J.**, Lopes, S. R. C., & de Souza, R. M. (2021). *A Bayesian approach for estimating the parameters of an α-stable distribution*. **Journal of Statistical Computation and Simulation**. [[DOI](https://doi.org/10.1080/00949655.2020.1865958)]
+8. **Karling, M. J.**, Lopes, S. R. C., & de Souza, R. M. (2021). *A Bayesian approach for estimating the parameters of an α-stable distribution*. **Journal of Statistical Computation and Simulation**. [[Journal](https://doi.org/10.1080/00949655.2020.1865958)]
