@@ -2,18 +2,28 @@
 layout: default
 title: Home
 permalink: /
-image: /fotos/background.png
+# image: /fotos/background.png  <-- We disable this as it might be causing the issue
 # nav: true
-image_alt: "Grupo de pesquisa IMERSIVE colaborando em visualização de dados estatísticos."
 ---
 
-<div class="row text-center mt-5">
+<!-- TEXT HEADER SECTION -->
+<div class="row text-center mt-5 mb-3">
   <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
     <h1>Welcome to The IMERSIVE Group</h1>
     <p class="lead text-muted">Innovative Modeling for Environmental & Real-time Statistics, Inference, Visualization & Estimation</p>
   </div>
 </div>
 
+<!-- NEW BANNER IMAGE SECTION -->
+<!-- This section places your background photo directly after the header text. -->
+<!-- We use 'relative_url' to automatically handle the repository name. -->
+<div class="row mb-5">
+  <div class="col-12">
+    <img src="{{ '/fotos/background.png' | relative_url }}" class="img-fluid rounded shadow" alt="IMERSIVE research group collaboration visualization" style="width: 100%;">
+  </div>
+</div>
+
+<!-- ABOUT US SECTION -->
 # The IMERSIVE Group
 
 > **Innovative Modeling for Environmental & Real-time Statistics, Inference, Visualization & Estimation**  
