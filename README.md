@@ -15,7 +15,7 @@ Our group focuses on developing robust, scalable, and computationally efficient 
 
 ### 🔬 Core Research Areas
 
-* 📈 **Time Series & Real-Time Data:** Streaming data analysis, online inference, non-stationary dynamics, and dynamic forecasting.
+* 📈 **Time Series & Real-Time Data:** Streaming data analysis, online inference, stationary and non-stationary dynamics, and forecasting.
 * 🔮 **Bayesian Statistics & Computational Methods:** Variational inference, MCMC algorithms, prior specification, and high-dimensional posterior approximation.
 * 🌍 **Spatial-Temporal & Environmental Modeling:** Spatio-temporal processes, climate/environmental data analysis, and point processes.
 * 📊 **Multivariate & High-Dimensional Statistics:** Dimensionality reduction, big data statistical architecture, and complex dependency structures.
