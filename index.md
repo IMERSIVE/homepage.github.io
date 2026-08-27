@@ -6,8 +6,6 @@ permalink: /
 # nav: true
 ---
 
-
-
 <!-- TEXT HEADER SECTION -->
 <div class="row text-center mt-5 mb-3">
   <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
@@ -16,8 +14,10 @@ permalink: /
 </div>
 
 ---
+
 > **Innovative Modeling for Environmental & Real-time Statistics: Inference, Visualization & Exploration**  
 > *Institute of Mathematics and Statistics — University of São Paulo (IME-USP)*
+
 ---
 
 <!-- NEW BANNER IMAGE SECTION -->
