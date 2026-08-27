@@ -33,6 +33,10 @@ Our group focuses on developing robust, scalable, and computationally efficient 
 * **Moisés A. Benítez Soriano** — MSc / PhD Student *(Focus: Selection Models and Variational Inference)*
 * **Luiza do Bonfim Arce** — PhD Student *(Focus: Binary and Censored Spatial Models)*
 
+#### **Undergraduate Researchers**
+* **Beatriz A. Bonfa de Paula** — IC Student *(Focus: Financial Time Series and Statistical Education)*
+* **Vinicius Garcia Santos** — IC Student *(Focus: Climatological Time Series and Bayesian Inference)*
+  
 ---
 
 ### 🛠️ Open-Source Software & Code (under construction)
