@@ -24,16 +24,16 @@ Our group focuses on developing robust, scalable, and computationally efficient 
 
 ### 👥 Team
 
-#### **Principal Investigator**
+#### 👨‍🏫 **Principal Investigator**
 * **Prof. Maicon J. Karling** — maiconkarling@ime.usp.br
 
-#### **Graduate Researchers**
+#### 🎓 **Graduate Researchers**
 * **Igor Gusev** — MSc Student *(Focus: Dynamic Linear Models and Particle Filters)*
 * **Karla S. T. dos Santos Silva** — MSc Student *(Focus: Education and Machine Learning)*
 * **Moisés A. Benítez Soriano** — MSc / PhD Student *(Focus: Selection Models and Variational Inference)*
 * **Luiza do Bonfim Arce** — PhD Student *(Focus: Binary and Censored Spatial Models)*
 
-#### **Undergraduate Researchers**
+#### 📚 **Undergraduate Researchers**
 * **Beatriz A. Bonfa de Paula** — IC Student *(Focus: Financial Time Series and Statistical Education)*
 * **Vinicius Garcia Santos** — IC Student *(Focus: Climatological Time Series and Bayesian Inference)*
   
